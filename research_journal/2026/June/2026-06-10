@@ -1,0 +1,49 @@
+# Daily Research Journal
+
+Date: 2026-06-10
+
+---
+
+## What I Studied
+
+- Linear Algebra
+- Attention Is All You Need
+- Sorting In DSA
+- Nummpy basics
+
+---
+
+## Key Insights
+
+- Attention computes weighted relationships
+- DSA - Intervals merging and overlapping 
+
+---
+
+## Questions
+- What are LSTM models which are foundations before Transformer
+
+
+---
+
+## Coding Work
+
+- Implemented matrix multiplication and Basic numpy operations
+- Solved 2 LeetCode problem
+- 
+
+---
+
+## Problems Faced
+
+- Some difficulty to understand some topics in Linear algebra
+- Confusion in when to  sort and when to not sort
+
+---
+
+## Tomorrow
+
+- Finish matrix implementation and Complete all the essential Numpy functions and operations
+- Read Transformer Section 4
+- Understand  the linear algebra in depth 
+- continue learning the sorting related techniques
